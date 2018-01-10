@@ -1,4 +1,4 @@
-# Game Portfolio Project
+# Game Portfolio Project List
   This is a github page to list some Game Projects I done. Please
   click the Link below to go to each project's github page. If you
   want to Download and play, please read through the instruction 
