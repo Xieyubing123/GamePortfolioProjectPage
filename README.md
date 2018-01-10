@@ -8,18 +8,18 @@
   github page, you can watch the gameplay video through those link. 
   Thanks and enjoy!.
   
-## 2D_CircleAndCube
+## Game1: 2D_CircleAndCube
   Github Download Link (with instruction and youtube video clip link):
   
 https://github.com/Xieyubing123/2D_CircleAndCube
 
 
-## ZeldaRemakeGame
+## Game1: ZeldaRemakeGame
   Github Download Link (with instruction and youtube video clip link):
   
 https://github.com/Xieyubing123/ZeldaRemakeGame
 
-## SneakRobberGame
+## Game1: SneakRobberGame
   Github Download Link (with instruction and youtube video clip link):
   
 https://github.com/Xieyubing123/SneakRobberGame
