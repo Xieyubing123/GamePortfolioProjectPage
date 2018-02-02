@@ -14,12 +14,12 @@
 https://github.com/Xieyubing123/2D_CircleAndCube
 
 
-## Game1: ZeldaRemakeGame
+## Game2: ZeldaRemakeGame
   Github Download Link (with instruction and youtube video clip link):
   
 https://github.com/Xieyubing123/ZeldaRemakeGame
 
-## Game1: SneakRobberGame
+## Game3: SneakRobberGame
   Github Download Link (with instruction and youtube video clip link):
   
 https://github.com/Xieyubing123/SneakRobberGame
